@@ -137,7 +137,7 @@ Error generating stack: `+i.message+`
     line-height: 29px;
     font-weight: 300;
   }
-`,Jv=()=>L(Yv,{children:Z(Gv,{children:[Z(Xv,{children:["Welcome to Covid web ",L("br",{}),L("span",{children:"We're all responsible.....Let's defeat COVID 19"})]}),L("img",{src:"/assets/images/banner-img.png",alt:""})]})}),vu=Y.span`
+`,Jv=()=>L(Yv,{children:Z(Gv,{children:[Z(Xv,{children:["Welcome to Covid web ",L("br",{}),L("span",{children:"We're all responsible.....Let's defeat COVID 19"})]}),L("img",{src:"/covid-app//assets/images/banner-img.png",alt:""})]})}),vu=Y.span`
   font-weight: 500;
   font-size: 30px;
   line-height: 36px;
@@ -210,7 +210,7 @@ Error generating stack: `+i.message+`
     line-height: 22px;
     color: ${Q.blue};
   }
-`,Ql=({text:e,status:t})=>Z(ny,{children:[t?L("img",{src:"/assets/images/completed.png",alt:""}):L("img",{src:"/assets/images/not-completed.png",alt:""}),L("span",{children:e})]}),ry=Y.div`
+`,Ql=({text:e,status:t})=>Z(ny,{children:[t?L("img",{src:"/covid-app/assets/images/completed.png",alt:""}):L("img",{src:"/covid-app/assets/images/not-completed.png",alt:""}),L("span",{children:e})]}),ry=Y.div`
   max-width: 1060px;
   min-height: 220px;
   background: #ffffff;
