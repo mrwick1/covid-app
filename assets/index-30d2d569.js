@@ -127,6 +127,9 @@ Error generating stack: `+i.message+`
     padding-left: 0;
     padding: 0 15px;
   }
+  img {
+    height: 413px;
+  }
 `,Xv=Y.h1`
   font-weight: 500;
   font-size: 40px;
